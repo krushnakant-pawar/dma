@@ -1,0 +1,1 @@
+"./PLL_init.o" "./SSI0_init.o" "./main2.o" "./mydma.o" "./tm4c123gh6pm_startup_ccs_gcc.o" -Wl,-T"../tm4c123gh6pm.lds" -Wl,--start-group -lc -lrdimon -Wl,--end-group 
